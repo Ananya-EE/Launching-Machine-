@@ -7,3 +7,4 @@ A ball launching machine is a device designed to automatically propel balls, typ
 * Customization: Many machines offer adjustable settings to cater to the user’s skill level and training goals.
 * Repetition: Provides repetitive drills, essential for skill acquisition.
 
+![WhatsApp Image 2024-10-05 at 7 23 41 PM](https://github.com/user-attachments/assets/6fa7f207-6480-4448-8055-81476db27a41)
