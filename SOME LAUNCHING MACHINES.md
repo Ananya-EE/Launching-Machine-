@@ -1,6 +1,6 @@
 Launching machines are used in various contexts, particularly in construction, military, and aerospace applications. Here are some types:
 
-1. *Catapults*: Traditional mechanical devices that use tension or torsion to launch projectiles.
+##*Catapults*: Traditional mechanical devices that use tension or torsion to launch projectiles.
 
 
 
