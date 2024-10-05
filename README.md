@@ -1,11 +1,9 @@
 # Launching-Machine-
-A ball launching machine is a device designed to automatically propel balls, typically used in sports training or recreational activities. These machines can vary in design and functionality, often allowing users to adjust the speed, angle, and frequency of the ball launches. Common applications include tennis ball machines for practicing strokes, pitching machines for baseball and softball, and dog ball launchers for playing fetch. They enhance practice by providing consistent ball delivery, allowing users to focus on improving their skills. 
+A ball launching machine is a device designed to automatically propel balls, typically used in sports training or recreational activities. These machines can vary in design and functionality, often allowing users to adjust the speed, angle, and frequency of the ball launches. Common applications include tennis ball machines for practicing strokes, pitching machines for baseball and softball, and dog ball launchers for playing fetch. They enhance practice by providing consistent ball delivery, allowing users to focus on improving their skills.
+
 -BENEFITS OF BALL LAUNCHING MACHINE :
 * Skill Development: Helps players practice specific techniques and improve consistency.
 * Time Efficiency: Allows for solo practice without the need for a partner.
 * Customization: Many machines offer adjustable settings to cater to the user’s skill level and training goals.
 * Repetition: Provides repetitive drills, essential for skill acquisition.
--APPLICATIONS OF BALL LAUNCHING MACHINE :
-* Sports Training: Widely used in sports academies, schools, and by individual athletes for practice.
-* Recreation: Popular among casual players and pet owners for fun and exercise.
-* Therapeutic Use: Some machines are used in rehabilitation settings to help individuals regain motor skills through repetitive motion
+
