@@ -1,6 +1,6 @@
 1.  MAIN MECHANISM --  COUNTER-WHEEL MECHANISM 
 
- ![WhatsApp Image 2024-10-24 at 20 01 49_ecbabbc0](https://github.com/user-attachments/assets/5a8ba2ed-be60-4cf7-8a5e-e74ae339723d)
+ ![WhatsApp Image 2024-10-24 at 21 05 51_647589c5](https://github.com/user-attachments/assets/cc0e5107-e3b9-4f15-a4f1-ada532c6bdd3)
 
 2. SPRING MECHANISM.
  
